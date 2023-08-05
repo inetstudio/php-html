@@ -1,7 +1,7 @@
 {
-    "name":        "arcanedev/php-html",
+    "name":        "inetstudio/php-html",
     "description": "A simple way to create html tags with php.",
-    "homepage":    "https://github.com/ARCANEDEV/php-html",
+    "homepage":    "https://github.com/inetstudio/php-html",
     "keywords":    ["arcanedev", "html", "form", "tags"],
     "authors":     [
         {
