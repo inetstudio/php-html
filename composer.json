@@ -15,11 +15,11 @@
     "license": "MIT",
     "require": {
         "php": "^8.0",
-        "illuminate/support": "^9.0"
+        "illuminate/support": "^10.0"
     },
     "require-dev": {
         "ext-dom": "*",
-        "phpunit/phpunit": "^9.5.8"
+        "phpunit/phpunit": "^10.1"
     },
     "autoload": {
         "psr-4": {
